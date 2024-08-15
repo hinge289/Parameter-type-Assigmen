@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q8 but in Assigment Q7", "Q8 but in Assigment Q7.csproj", "{BBC3F7B8-051E-4DC3-A965-62D2E8719AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC3F7B8-051E-4DC3-A965-62D2E8719AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC3F7B8-051E-4DC3-A965-62D2E8719AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC3F7B8-051E-4DC3-A965-62D2E8719AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC3F7B8-051E-4DC3-A965-62D2E8719AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A376B422-F331-4696-B762-2645FFA172EA}
+	EndGlobalSection
+EndGlobal
